@@ -1,6 +1,7 @@
 {
   "name": "swiggy-landing-page-reactjs-Udayveer-PS",
   "version": "0.1.0",
+  "Homepage":".",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
